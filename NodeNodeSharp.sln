@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeNodeSharp", "NodeNodeSharp\NodeNodeSharp.csproj", "{B53460BE-C5A0-46CF-AE02-4C2D611E841C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B53460BE-C5A0-46CF-AE02-4C2D611E841C}.Debug|x86.ActiveCfg = Debug|x86
+		{B53460BE-C5A0-46CF-AE02-4C2D611E841C}.Debug|x86.Build.0 = Debug|x86
+		{B53460BE-C5A0-46CF-AE02-4C2D611E841C}.Release|x86.ActiveCfg = Release|x86
+		{B53460BE-C5A0-46CF-AE02-4C2D611E841C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NodeNodeSharp\NodeNodeSharp.csproj
+	EndGlobalSection
+EndGlobal
